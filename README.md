@@ -1,3 +1,3 @@
 # clientServer_OE
 
-client-server application in QT+HTML,SQLite,CSS
+simple client-server application Qt/C++ +HTML,SQLite,CSS
